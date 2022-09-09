@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Netrobase Technologies](www.netrobase.com)
 
-- 🌱 I’m currently learning **Harvard CS50x COurses**
+- 🌱 I’m currently learning **Harvard CS50x Courses**
 
 - 👯 I’m looking to collaborate on [Mclennards Group](www.mclennards.group)
 
