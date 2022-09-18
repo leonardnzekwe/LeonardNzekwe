@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Netrobase Technologies](www.netrobase.com)
 
-- 🌱 I’m currently learning **Harvard CS50x Courses, Dart, Flutter and Solidity.**
+- 🌱 I’m currently learning **Harvard CS50x Courses, Dart, Flutter Firebase and Solidity.**
 
 - 👯 I’m looking to collaborate on [Mclennards Group](www.mclennards.group)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [leonardnzekwe.com/blog](leonardnzekwe.com/blog)
 
-- 💬 Ask me about **Claris Filemaker, Wordpress, Dart, Flutter, and Solidity.**
+- 💬 Ask me about **Claris Filemaker, Wordpress, Dart, Flutter, firebase and Solidity.**
 
 - 📫 How to reach me **mail@leonardnzekwe.com**
 
