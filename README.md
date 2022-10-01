@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with [Kralis](www.kralis.com)
 
-- 👨‍💻 All of my projects are available at [leonardnzekwe.com/projects](leonardnzekwe.com/projects)
+- 👨‍💻 All of my projects are available at [leonard.nzekwe.org/projects](leonardnzekwe.com/projects)
 
-- 📝 I regularly write articles on [leonardnzekwe.com/blog](leonardnzekwe.com/blog)
+- 📝 I regularly write articles on [leonard.nzekwe.org/blog](leonard.nzekwe.org/blog)
 
 - 💬 Ask me about **Claris Filemaker, Wordpress, Dart, Flutter, firebase and Solidity.**
 
 - 📫 How to reach me **mail@leonardnzekwe.com**
 
-- 📄 Know about my experiences [leonardnzekwe.com/resume](leonardnzekwe.com/resume)
+- 📄 Know about my experiences [leonard.nzekwe.org/resume](leonard.nzekwe.org/resume)
 
 - ⚡ Fun fact **I dream of coding my dreams to reality**
 
