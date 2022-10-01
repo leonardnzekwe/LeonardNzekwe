@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Claris Filemaker, Wordpress, Dart, Flutter, firebase and Solidity.**
 
-- 📫 How to reach me **mail@leonardnzekwe.com**
+- 📫 How to reach me **leonard@nzekwe.org**
 
 - 📄 Know about my experiences [leonard.nzekwe.org/resume](leonard.nzekwe.org/resume)
 
