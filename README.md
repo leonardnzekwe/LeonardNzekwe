@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Mclennards Group](www.mclennards.group)
 
-- 🤝 I’m looking for help with [Kralis](www.kralis.com)
+- 🤝 I’m looking for help with [Kralis](www.kralis.app)
 
 - 👨‍💻 All of my projects are available at [leonard.nzekwe.org/projects](leonardnzekwe.com/projects)
 
